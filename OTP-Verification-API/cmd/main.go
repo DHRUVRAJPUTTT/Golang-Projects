@@ -1,7 +1,8 @@
 package main
 
 import (
-	"github.com/DHRUVRAJPUTTT/Golang-Projects/tree/main/OTP-Verification-API/api"
+	"otp-verification-api/api"
+
 	"github.com/gin-gonic/gin"
 )
 
